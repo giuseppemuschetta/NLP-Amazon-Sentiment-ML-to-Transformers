@@ -2,7 +2,8 @@
 **University:** University of Pisa  
 **Degree:** M.Sc. in Data Science & Business Informatics  
 **Course:** Text Analytics  
-**Supervisor:** Prof. Laura Pollacci  
+**Supervisor:** Prof. Laura Pollacci
+**Final Grade:** 30 out of 30 cum laude
 **Academic year:** 2023–2024
 
 # Amazon Review Sentiment: From TF-IDF to Transformers
